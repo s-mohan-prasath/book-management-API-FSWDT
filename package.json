@@ -1,0 +1,32 @@
+{
+  "name": "book-management-api-fswdt",
+  "version": "1.0.0",
+  "description": "This is the Book Management API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smohanprasath/book-management-API-FSWDT.git"
+  },
+  "keywords": [
+    "BOOK",
+    "MANAGEMENT",
+    "API"
+  ],
+  "author": "Mohan Prasath S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smohanprasath/book-management-API-FSWDT/issues"
+  },
+  "homepage": "https://github.com/smohanprasath/book-management-API-FSWDT#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
